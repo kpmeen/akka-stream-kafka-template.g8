@@ -1,2 +1,12 @@
+/logs/
 target/
-.idea
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+*.sc
+*.swp
+*.orig
+.DS_Store
