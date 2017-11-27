@@ -35,4 +35,4 @@
 
 ## Further detail
 
-Built using [akka-stream-kafka-template.g8](https://github.com/ScalaWilliam/akka-stream-kafka-template.g8)
+Built using [akka-stream-kafka-template.g8](https://github.com/kpmeen/akka-stream-kafka-template.g8)
